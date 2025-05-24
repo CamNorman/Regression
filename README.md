@@ -1,1 +1,1 @@
-Packages Used: One hot encoder, Simple IMputer
+Packages Used: One hot encoder, Simple Imputer
